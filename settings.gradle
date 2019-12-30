@@ -1,0 +1,2 @@
+include ':app', ':day_01_butterknife', ':day_02_eventbus', ':month_ds_demo', ':week_01_demo'
+rootProject.name='1707'
